@@ -1,5 +1,5 @@
 # CodeFinder
-Android App that displays student access codes for several teaching tools.
+Android App that displays student access codes for several teaching tools (such as [TestsOverSSH](https://github.com/in4cio/TestsOverSSH)).
 
 <img src="CodeFinder.png" width="20%" height="20%">
 
