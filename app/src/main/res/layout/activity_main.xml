@@ -45,7 +45,7 @@
             android:id="@+id/bt_select"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:onClick="selectCSV"
+            android:onClick="askPerm"
             android:text="SELECT CSV"
             app:backgroundTint="@color/purple_200" />
 
