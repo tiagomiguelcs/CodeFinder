@@ -92,9 +92,10 @@
             android:autoText="false"
             android:gravity="center"
             android:textAppearance="@style/TextAppearance.AppCompat.Large"
+            android:textSize="48sp"
             android:textStyle="bold"
-            app:autoSizeMaxTextSize="70sp"
-            app:autoSizeMinTextSize="50sp"
+            app:autoSizeMaxTextSize="48sp"
+            app:autoSizeMinTextSize="20sp"
             app:autoSizeStepGranularity="1sp"
             app:autoSizeTextType="uniform" />
 
